@@ -1,0 +1,122 @@
+.video-wrap{
+    position: relative;
+}
+body{
+    margin:0 0;
+}
+header{
+    width:100vw;
+    height:40%;
+    background-color: #D2C215;
+    position: absolute;
+}
+
+.text img{
+    width:60%;
+    padding-left:20%;
+}
+.text{
+    position: absolute;
+    top:40%;
+    left:35%;
+    color:white;
+    font-size:2em;
+    font-family: 'Rowdies', cursive;
+}
+
+
+.video-wrap video{
+    width:80%;
+    margin-left:9%;
+}
+
+
+  .header{
+      position: absolute;
+      top:0;
+      width:100vw;
+      height:15%;
+      background-color:white;
+      color:white;
+      z-index: 3;
+  }
+
+  nav{
+    text-align: center;
+    }
+    nav ul{
+    margin: 0 ;
+    padding:1% 2% ;
+    }
+    nav li{
+    list-style: none;
+    display: inline-block;
+    width: 10%;
+    min-width: 90px;
+    }
+    nav li:not(:last-child){
+    border-right:2px solid #ddd;
+    }
+    nav a{
+    text-decoration: none;
+    color: black;
+    }
+  
+    nav a:hover{
+    color:gray;
+
+    }
+
+
+     .menu{
+         position: absolute;
+         width:80%;
+         top:18%;
+         left:9%;
+         border-top:2px solid black;
+         border-bottom:2px solid black;
+
+     }
+
+     .subtitle{
+        font-size:1.7em;
+        font-family: 'Rowdies', cursive;
+        text-align: center;
+        color:black;
+        margin-top:5%;
+        margin-left:5%;
+     }
+
+    .subtitle p{
+        margin-left :-10%;
+        margin-bottom:5%;
+    }
+
+     .row{
+         margin-bottom:3%;
+         margin-left:2%;
+     }
+
+
+     .col-sm-4 img{
+         width:80%;
+         margin-left:0;
+       
+     }
+
+
+
+     .col-sm-4 {
+        position: relative;
+      }
+      .col-sm-4 .active {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+        transition: 0.5s; // ゆっくり
+      }
+      .col-sm-4:hover .active {
+        opacity: 1;
+      }
+
