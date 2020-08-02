@@ -114,9 +114,18 @@ header{
         left: 0;
         top: 0;
         opacity: 0;
-        transition: 0.5s; // ゆっくり
+        transition: 0.5s; 
       }
       .col-sm-4:hover .active {
         opacity: 1;
       }
 
+.banner img:hover{
+    transform:scale(1.6,1.6);
+    z-index:3
+  }
+
+.illust img:hover{
+    transform:scale(1.6,1.6);
+    z-index:3
+  }
