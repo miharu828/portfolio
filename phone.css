@@ -249,15 +249,5 @@ main h1 {
   font-weight: 400;
   text-align: center;
 }
-/*============
-body
-=============*/
-body {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
-}
 
-.navArea[
-display:flex;}
 
-#navArea{display:flex;}
