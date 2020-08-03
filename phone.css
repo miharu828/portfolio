@@ -251,3 +251,19 @@ main h1 {
 }
 
 
+phone
+.subtitle p {
+    margin-bottom: 5%;
+    font-size: 6vw;
+    position: relative;
+    right: 0vw;
+}
+
+#click {
+    font-size: 3vw;
+    text-align: center;
+    position: relative;
+    top: -4vh;
+    right: 2vh;
+    /* font-weight: lighter; */
+}
