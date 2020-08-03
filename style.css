@@ -133,7 +133,9 @@ header{
     z-index:3
   }
 
-.navArea{
-    display:none}
+}
+@media screen and (min-width:769px) { 
+    /*　画面サイズが480pxからはここを読み込む　*/
+
 #navArea{
-    display:none;}
+    display:none;}}
