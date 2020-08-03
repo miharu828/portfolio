@@ -1,0 +1,36 @@
+.text {
+    position: absolute;
+    top: 49%;
+    left: 25%;
+    color: white;
+    font-size: 1em;
+    font-family: 'Rowdies', cursive;
+}
+
+.video-wrap video {
+    margin-right: 10%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.subtitle p {
+    margin-bottom: 5%;
+    font-size: 6vw;
+    position: relative;
+    right: 3vw;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 10vw;
+    margin-left: 5vw;
+}
+
+
+
+.col-sm-4 {
+    position: relative;
+    margin-bottom: 10%;
+}
