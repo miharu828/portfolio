@@ -139,3 +139,30 @@ header{
 
 #navArea{
     display:none;}}
+
+
+
+.video-wrap video {
+    width: 80%;
+    margin-left: 9%;
+    margin-top: 12vh;
+}
+.header {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 4vh;
+    background-color: black;
+    color: black;
+    z-index: 3;
+    
+}
+
+#click {
+    font-size: 2vw;
+    text-align: center;
+    position: relative;
+    top: -4vh;
+    right: 4vh;
+    /* font-weight: lighter; */
+}
