@@ -132,3 +132,8 @@ header{
     transform:scale(1.6,1.6);
     z-index:3
   }
+
+.navArea{
+    display:none}
+#navArea{
+    display:none;}
