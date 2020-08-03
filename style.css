@@ -10,6 +10,9 @@ header{
     background-color: #D2C215;
     position: absolute;
 }
+#click{
+    font-size:1.3vw;
+    text-align:center;}
 
 .text img{
     width:60%;
