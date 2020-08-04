@@ -18,12 +18,13 @@ header{
     width:60%;
     padding-left:20%;
 }
-.text{
+
+.text {
     position: absolute;
-    top:40%;
-    left:35%;
-    color:white;
-    font-size:2em;
+    top: 47vh;
+    left: 35vw;
+    color: white;
+    font-size: 2em;
     font-family: 'Rowdies', cursive;
 }
 
