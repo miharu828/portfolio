@@ -28,9 +28,9 @@ header{
     font-family: 'Rowdies', cursive;
 }
 
-.graphic{
+.graphic img{
     text-aligin:center;
-    margin-left:0;
+    margin-left:30vw;
     margin-right:0;}
 
 .video-wrap video {
