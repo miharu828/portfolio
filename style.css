@@ -28,6 +28,10 @@ header{
     font-family: 'Rowdies', cursive;
 }
 
+.graphic{
+    text-aligin:center;
+    margin-left:0;
+    margin-right:0;}
 
 .video-wrap video {
     width: 80%;
