@@ -31,7 +31,8 @@ header{
 .graphic img{
     text-aligin:center;
     margin-left:25vw;
-    margin-right:0;}
+    margin-right:0;
+margin-top:5vh;}
 
 .video-wrap video {
     width: 80%;
